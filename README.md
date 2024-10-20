@@ -14,7 +14,7 @@
 - fonts vscode
   
 - code runner
-- 
+  
 - postman</p>
 
 <h5>go lang notes - <a href="https://drive.google.com/file/d/1mYe1blJ3DreNF54rYrTvj7A8lu0Hgiph/view?usp=sharing"> golang notes download link </a></h5>
