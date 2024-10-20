@@ -1,4 +1,4 @@
-<h3 style="color:blue;text-align:center;">Akshatha-birthday-gift</h3> 
+<h1 style="color:blue;text-align:center;">Akshatha-birthday-gift</h1> 
 
 <h5>install go - <a href="https://go.dev/doc/install">go download link </a></h5>
 
