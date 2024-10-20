@@ -27,9 +27,9 @@
 - https://www.tutorialspoint.com/go/index.htm
 </h5>
 
-<h5> study materials - 
+<p> study materials - 
   - https://github.com/sherifabdlnaby/Golang-study-notes
   
   - https://github.com/dariubs/GoBooks?tab=readme-ov-file#2018---learning-go-free
-</h5>
+</p>
 
